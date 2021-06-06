@@ -1,1 +1,1 @@
-This is Micahel's not quite first project.
+This is Michael's not quite first project.
